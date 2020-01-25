@@ -1,10 +1,10 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TipTipHooray*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipTipHooray** is a tip calculator application for iOS.
 
-Submitted by: **Your Name Here**
+Submitted by: **Maya Whaley**
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## User Stories
 
